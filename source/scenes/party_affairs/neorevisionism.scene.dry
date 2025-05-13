@@ -18,7 +18,7 @@ Many
 - @easy_discard
 
 @support_neo
-on-arrival: radical liberal_strength += 10; nazi_urgency += 1; radical liberalism = 1; peoples_party_support += 1
+on-arrival: radical_liberal_strength += 10; nazi_urgency += 1; radical_liberal = 1; peoples_party_support += 1
 
 We support the old leaders, and start using nostalgic-style propaganda techniques in our campaigns. The results are uncertain so far...
 
@@ -27,6 +27,6 @@ We support the old leaders, and start using nostalgic-style propaganda technique
 
 
 @no_new_ideas
-on-arrival: radical liberal_strength -= 5; center_strength += 5; radical liberalism = -1
+on-arrival: radical_liberal_strength -= 5; center_strength += 5; radical_liberal = -1
 
 We do not need these old ideas; they are too bourgeois.
