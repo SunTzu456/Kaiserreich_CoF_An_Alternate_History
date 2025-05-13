@@ -320,14 +320,14 @@ Strength: [+ reformist_strength : strength +]
 
 Dissent: [+ reformist_dissent : dissent +]
 
-@radical liberals
+@radical_liberals
 go-to: menu
 
-**radical liberals**
+**radical_liberals**
 
 radical liberals focus on defending the republic and expanding democracy, while also expanding the party's base beyond the working class to create a people's party. They support new propaganda methods and extraparliamentary action in defense of the republic.
 
-Strength: [+ radicalliberal_strength : strength +]
+Strength: [+ radical_liberal_strength : strength +]
 
 Dissent: [+ radical_liberal_dissent : dissent +]
 
