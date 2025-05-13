@@ -320,7 +320,7 @@ Strength: [+ reformist_strength : strength +]
 
 Dissent: [+ reformist_dissent : dissent +]
 
-@radical_liberals
+@radical_liberal
 go-to: menu
 
 **radical_liberals**
