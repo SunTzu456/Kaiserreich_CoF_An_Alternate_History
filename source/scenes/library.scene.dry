@@ -320,16 +320,16 @@ Strength: [+ reformist_strength : strength +]
 
 Dissent: [+ reformist_dissent : dissent +]
 
-@neorevisionists
+@radical liberals
 go-to: menu
 
-**Neorevisionists**
+**radical liberals**
 
-Neorevisionists focus on defending the republic and expanding democracy, while also expanding the party's base beyond the working class to create a people's party. They support new propaganda methods and extraparliamentary action in defense of the republic.
+radical liberals focus on defending the republic and expanding democracy, while also expanding the party's base beyond the working class to create a people's party. They support new propaganda methods and extraparliamentary action in defense of the republic.
 
-Strength: [+ neorevisionist_strength : strength +]
+Strength: [+ radicalliberal_strength : strength +]
 
-Dissent: [+ neorevisionist_dissent : dissent +]
+Dissent: [+ radical_liberal_dissent : dissent +]
 
 
 @figures
